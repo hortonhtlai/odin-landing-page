@@ -46,7 +46,7 @@ a {
     color: #F9FAF8;
 }
 
-.hero2nd, a {
+.hero2nd, a, .section42nd {
     font-size: 18px;
     color: #E5E7EB;
     margin: 5px 0px;
@@ -127,6 +127,29 @@ button {
     font-weight: bold;
     text-align: right;
     margin-right: 50px;
+}
+
+.section4 {
+    background-color: #3882F6;
+    margin: 100px 200px;
+    border-radius: 12px;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.section4header {
+    font-size: 24px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+.button2 {
+    border-width: 5px;
+    border-color: #F9FAF8;
+    border-style: solid;
 }
 
 * {
